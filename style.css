@@ -8,6 +8,8 @@ header{
 
 nav li{
     display: inline;
+    border: red 5px solid;
+    padding-top: 30 px; 
 }
 
 nav a{
