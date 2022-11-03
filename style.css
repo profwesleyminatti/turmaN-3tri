@@ -47,7 +47,7 @@ p {
 
 .itens {
 	color:  #5F9EA0;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .texto-principal {
     margin-right: 20%; 
