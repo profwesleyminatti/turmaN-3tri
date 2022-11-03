@@ -6,10 +6,13 @@ header{
     background-color: cornflowerblue;
 }
 
-nav li{
-    display: inline;
+nav{
     border: red 5px solid;
     padding-top: 30 px; 
+}
+
+nav li{
+    display: inline;
 }
 
 nav a{
